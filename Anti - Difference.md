@@ -19,18 +19,18 @@ This function is defined to be the anti difference.
 That is to say:
 
 > the anti difference of $$f$$ is the function $$g$$ s.t.
-![alt](../assets/images/anti_difference_example.svg)
+![alt](./assets/images/anti_difference_example.svg)
 
 Much like the difference operation, we can think of the anti difference as an operation which takes in a function and returns a function. 
 
 We shall notate this operation as follows.
 
-![alt](../assets/images/anti_difference_notation.svg)
+![alt](./assets/images/anti_difference_notation.svg)
 
 Note that since by definition, the anti difference of a function is a function who gives us difference f,
 the difference function cancels the anti difference function!
 
-![alt](../assets/images/anti_cancel_therom.svg)
+![alt](./assets/images/anti_cancel_therom.svg)
 
 ___
 
@@ -42,5 +42,5 @@ The most useful feature of the anti difference is its relation to repeated summa
 
 bellow is a proof of this fact.
 
-![alt](../assets/images/anit_diff_as_sum.svg)
+![alt](./assets/images/anit_diff_as_sum.svg)
 
