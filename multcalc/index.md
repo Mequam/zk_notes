@@ -19,5 +19,5 @@ enjoy and use at your own risk.
 
 ![basic definitions](./assets/mulit_calc_basics.svg)
 
-
-![multi bell definition](./assets/multi_bell_definition.svg)
+[multicacl/exponentiation](../multicacl/exponentiation)
+[multicalc/bellcurve](../multicalc/bellcurve)

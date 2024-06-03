@@ -16,6 +16,9 @@ this means theres probably some connection between a bell curve probablilty and
 multiplication which is kinda neeto :).
 
 
+![multi bell definition](./assets/multi_bell_definition.svg)
+
+
 ## Proper standard distrobution
 
 interestingly enough not every value of A will be a valid standard distrobution
@@ -28,7 +31,7 @@ can be seen bellow
 
 ![standardDevWithA](./assets/standardDevWithA.svg)
 
-## Images
 
-![multi bell definition](./assets/multi_bell_definition.svg)
+## References
 
+[multicacl/exponentiation](../multicacl/exponentiation)

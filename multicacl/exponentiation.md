@@ -14,6 +14,4 @@ you can find an exponential approximation of a function at a given point.
 
 the equation for that is bellow :).
 
-[exponentail approximation](./assets/exponetiation_of_a_function.svg)
-
-
+![exponentail approximation](./assets/exponetiation_of_a_function.svg)
