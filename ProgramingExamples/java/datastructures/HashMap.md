@@ -38,6 +38,7 @@ the Map datatype contains several functions used to add data to the map
 - entrySet returns a set of key value pairs (K,V)
 - keySet returns a set of keys K
 - values returns a list of values stored in the hash map V
+- remove takes in a value
 
 
 
