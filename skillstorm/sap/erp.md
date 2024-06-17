@@ -159,6 +159,8 @@ package
 
 these are only available in abap based systems
 
+see [skillstorm/eap/abap](../eap/abap) for more info
+
 you can't mix EHP versions, only one version at a time
 
 ### New capabilities offered
