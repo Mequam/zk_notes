@@ -7,7 +7,6 @@ created: 1717957508
 ---
 # math/continualDerivatives
 
-
 # Spunk Math!
 
 ## About
@@ -17,7 +16,6 @@ for practice, learning and fun ; even if it tends to not be the most practicle p
 
 Im not the best speller in the world, and im writing this in neovim (shoutout to my vim folks)
 without a spell checker, so I kindly request that you take the math for the logic and not for spelling :).
-
 
 ## Definitions
 
@@ -155,7 +153,6 @@ Using this we can get the final equation to represent our continual integration!
 > Note that to get polynomials, we place in negative values of r
 > to integrate one up the the desired power
 
-
 ## Note
 
 For negative inputs, the continus derivative of a polynomial appears to return a complex number, this has the effect of 
@@ -219,7 +216,6 @@ plt.plot([x for x in range(20)],[x**3/6 for x in range(20)],"b--")
 
 plt.show()
 ```
-
 
 graphs the real and imaginary values of continual integration from 0 to 50 at x = -10
 
