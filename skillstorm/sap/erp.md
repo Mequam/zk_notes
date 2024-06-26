@@ -182,11 +182,49 @@ enable development of applicatons on top of a basic erp system
 
 ## SAP Components
 
+### Adaptive Computing Controller
+
+central point of control to assign computer resources
+accross an organization
+
+### SAP Composition Environment
+
+supports design and implementation of composit application
+
+### SAP Enterprise portal
+
+unifies critical information
+
+> basically only show people what they need
+
+### SAP Auto-ID Infrastructure
+
+provides the capabilities for RFID support in your apps
+
+bluetooth embeded systems or other warhouse functionality
+
+### SAP Identity Management
+
+Helps manage controll access rights into applications
+
 ### Netweaver moble
 
 foundation for sap moble apps enhances existing sap applications for mobile
 
 service employees can be notified from mobile as apposed to desktops
+
+### SAP Netweaver development studio
+
+vscode for netweaver :)
+
+### NeatWeaver Visual Composer
+
+simplifies creation of protal content using a visual method
+
+### SAP solution manager
+
+helps technical support in a distributed system for continus
+improvement of an application
 
 ### NetWeaver Application Server
 
@@ -254,3 +292,16 @@ can integerate with information from almost all sources
 this should ideally integrate with existing it investments
 
 should expand and scale projects overtime as needed
+
+#### Advantages
+1. openess and extensability
+2. compatibility with .net and IBM WebSphere
+    WebSphere can provide real time assistance
+3. Immediate Integration
+    ensures that all systems are integrated and talking to
+    eachother
+    if everybody speaks the same language productivity goes up
+4. Lower Cost of Ownership
+    since netweaver uses existing infrastructure it reduces
+    the need for more software
+    30+ years of robustness for sap
