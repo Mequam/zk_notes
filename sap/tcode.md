@@ -11,6 +11,8 @@ created: 1719258667
 
 just a place to plop transactionCodes that I find useful for sap
 
+see se93 to search more about tcodes
+
 
 ## Transaction Codes
 
@@ -27,3 +29,10 @@ just a place to plop transactionCodes that I find useful for sap
 - rsd2 : look at / activate key figures
 - rsattr : change heirarchy, TODO: more research required here
 - LISTCUBE : query an info cube
+
+## Profit / Cost Center Accounting
+
+KE51 : create a profit center
+KS01 : create a cost center
+KSH2 : edit a standard cost heirarchy
+KSH1 : create a new cost center group
