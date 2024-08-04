@@ -35,3 +35,13 @@ use it to gage your current knowledge
 
 [cost center hierarchy stuff](https://www.tutorialscampus.com/sap-co/cost-center-hierarchy.htm)
 
+[microform as low level org structure](https://www.beyondmusictheory.org/microform-as-a-low-level-organizational-structure/)
+
+[abap learning hub SAP](https://learning.sap.com/learning-journeys/acquire-core-abap-skills/introducing-the-abap-restful-application-programming-model-rap-_e86bbfde-50be-4c7b-8716-53bacc94c5a0)
+
+---
+
+## ABAP ps table links
+
+[usefulTables](https://sap4tech.net/sap-ps-tables-relationship/)
+[moreUsefultables](https://erp-top.com/project-system/)

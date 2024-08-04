@@ -36,3 +36,21 @@ KE51 : create a profit center
 KS01 : create a cost center
 KSH2 : edit a standard cost heirarchy
 KSH1 : create a new cost center group
+
+
+## Removing Locks
+
+sm12 : look at the contents of different tables in the app
+       you can search your user name then delete the entry
+       to resolve lock bugs here
+
+
+
+## database
+
+se16n : look at views or table informations
+se11 : see the contents of a table in the sap gui
+
+## Project Systems
+
+CJ20N : opens up the project builder in sap gui
