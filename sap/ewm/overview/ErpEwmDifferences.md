@@ -64,4 +64,26 @@ customer and vendor -> location / SCU and business partner
 material master -> product
 ASN -> (advanced shipping notification)
 ppf -> post processing framework (used in EWM)
+SCM -> supply chain management
+CRM -> Customer Resource Management ?
+tms -> taylored management service
+bms -> basic measurement service
+CMS -> calculated management service
+VDM -> virtual data model
+KPI -> key performance analytics
+WT -> warehouse task
+HU -> handling unit
+LE -> logistics execution
+
+---
+
+## Inbound Delivery
+
+inbound delivery confirmation is sent from the EWM to the ERP system
+so that any changes to the inbound delvery document are reflected in both
+systems
+
+Inbound Delivery With the status "Execution Completed" is the basis
+for the Proof of Delivery document generated in ERP
+
 

@@ -52,3 +52,4 @@ use it to gage your current knowledge
 
 [ewm cert landing page](https://training.sap.com/certification/c_s4ewm_2020-sap-certified-associate---extended-warehouse-management-with-sap-s4hana-g/?)
 [ewm practice page](https://saplearninghub.plateau.com/learning/user/deeplink.do?catalogAction=launchContent&componentID=EWM10e_EN_Col19&componentTypeID=E-Learning&fromSF=Y&linkId=ITEM_DETAILS&revisionDate=1357992000000#/51DC1530838531D4170097028B280BCD/onlinecontentplayer/23916869)
+[udemy ewm with explanations](https://teams.microsoft.com/l/message/19:meeting_NDQ2N2RkMzAtZGMwNy00MmUwLTk4ZTgtODM5MGRkNjFkNjEw@thread.v2/1723660638115?context=%7B%22contextType%22%3A%22chat%22%7D)

@@ -57,11 +57,21 @@ See the bellow screenshot for details
 
 ![inboundDeliveryProcess](./assets/inboundDeliveryProcess.svg)
 
+### Inbound Delivery Notifications
+
+this contains all data copied from the inbound delivery document in the
+
+ERP system these only exist in external EWM not in embeded
+and in external you can configure the system to skip them if you
+want to
+
 ## ASN (advanced shipping notification)
 
 
 usually sent from a  vendor to the warehouse over edi,
 
 when it arrives the system generates an inbound delivery document
+
+can contain the HU for the given operation
 
 

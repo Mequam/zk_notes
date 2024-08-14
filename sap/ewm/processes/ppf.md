@@ -29,3 +29,12 @@ which offer functionality for
 - starting business addins
 
 converts inbound delivery notification into inbound delivery
+
+
+## Connection To Warehouse Tasks
+
+for each warehouse request item, the ppf may create a warehouse tasks
+automatically in the background, if not you can create one manually
+
+see [sap/ewm/overview/warehouseTasks](../overview/warehouseTasks)
+see [sap/ewm/overview/warehouseTasks](../overview/warehouseTasks.md)
