@@ -95,3 +95,11 @@ Provide an interface for updating and reviewing upgrade details. 
 
 Display cost and progress analysis through interactive charts.  
 
+
+## Display Content
+
+1. unit test involving conversions
+2. insertion / removal of new projects
+3. validation check highlighting
+
+
