@@ -11,50 +11,78 @@ created: 1723671266
 
 ## Process Oriented Storage Control
 
-### Reasoning
-
 according to SAP warehouse motions are rarely a single
 task from A to B, they often involve complex movements
 
 additional examples of process steps
 that may be required in warehouse movements
 
-- Counting
-- Quality Inspection
-- Deconsolidation (unpacking into individual HUs)
-- Value-added services
-- Packing
+see bellow for more info
 
-you can really get a feel for why SAP would say this
-from the following graphic
-
-![warehouseTaskExample](./assets/warehouseTaskExample.svg)
+[sap/ewm/additionalFunctions/processOrientedStorageControl](processOrientedStorageControl)
+[sap/ewm/additionalFunctions/processOrientedStorageControl](processOrientedStorageControl.md)
 
 
-### Definition
+---
 
-it is for this reason you can define paths for products to follow
-using process oriented control
+## Layout Oriented Storage Control
 
-you can see examples of this in the bellow task
-![processExample](./assets/processExample.svg)
+this is used when products do not travel directly from source
+to storage, but have to move around the warehouse
 
-### Handling Unit Warehouse Tasks
+basically instead of thinking of the PROCESS of materials,
+we think about the physical location materials have to go through
 
-these are manditory for moving a product to an interim storage location
 
-In a putaway process the final WT is a product warehouse
-task, in a picking process the first WT is a product
-warehouse task. All other WTs are handling unit warehouse task.
+[sap/ewm/additionalFunctions/LayoutOrientatedSC](LayoutOrientatedSC.md)
+[sap/ewm/additionalFunctions/LayoutOrientatedSC](LayoutOrientatedSC)
 
-when using Process Oriented Storage Control you can either have the
-last bin in the process selected automatically, or dynamically during
-the movement of the goods
+---
 
-if it is selected you can have the system reserve that bin to prevent
-other goods from filling up that space.
+## Serial Number
 
-### Goods reciept example
+unique number that identifies a product
+
+> product number and serial number are a unique combination
+
+serial numbers can be up to 30 characters in length in EWM, but
+ERP compatibility requires an 18 character restriction.
+
+apparently a BAdi exists that maps SAP EWM to ERP numbers
+if required.
+
+[sap/ewm/additionalFunctions/serialNumber](serialNumber.md)
+[sap/ewm/additionalFunctions/serialNumber](serialNumber)
+
+---
+
+## Batch Management
+
+A batch describes a quantity or partial quantity of a certain
+material or product that has been produced according to the same
+recipe, and represents one homogenous, non-reproducible unit with unique specifications.
+
+basically its a collection of things that are processed together, think all the grains of
+rice in a jar bieng one batch
+
+[sap/ewm/additionalFunctions/batch](batch.md)
+[sap/ewm/additionalFunctions/batch](batch)
+
+---
+
+## Quality Inspection
+
+
+quality inspection is enabled in decentralized EWM via the 
+quality inspection engine or (QIE) 
+
+[sap/ewm/additionalFunctions/qualityInspection](qualityInspection.md)
+[sap/ewm/additionalFunctions/qualityInspection](qualityInspection)
+
+---
+
+
+## Goods reciept example
 
 note the routing like nature used here, I think that would imply
 your using the Process Oriented Storage Control here to determine where
@@ -67,7 +95,7 @@ things go, but more research needed
 
 ![taskRouteExample](./assets/taskRouteExample.svg)
 
-### Picking Example
+## Picking Example
 
 
 ![warehousePickingRoutingExample](./assets/warehousePickingRoutingExample.svg)

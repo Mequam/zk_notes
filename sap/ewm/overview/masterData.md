@@ -111,4 +111,13 @@ for decentralized
 [sap/ewm/overview/les](les.md)
 [sap/ewm/overview/les](les)
 
+---
 
+## Batches
+
+batches are additional master data for handling objects that have
+to be grouped together
+
+see [sap/ewm/additionalFunctions/batch](../additionalFunctions/batch)
+
+for more detail

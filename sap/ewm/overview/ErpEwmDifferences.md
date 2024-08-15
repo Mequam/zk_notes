@@ -58,22 +58,22 @@ number
 master data can occasionally be copied from the ERP system into the
 EWM system, there are slightly different names when this occures
 
-ERP -> EWM
-plant and shipping point -> location / SCU
-customer and vendor -> location / SCU and business partner
-material master -> product
-ASN -> (advanced shipping notification)
-ppf -> post processing framework (used in EWM)
-SCM -> supply chain management
-CRM -> Customer Resource Management ?
-tms -> taylored management service
-bms -> basic measurement service
-CMS -> calculated management service
-VDM -> virtual data model
-KPI -> key performance analytics
-WT -> warehouse task
-HU -> handling unit
-LE -> logistics execution
+- ERP -> EWM
+- plant and shipping point -> location / SCU
+- customer and vendor -> location / SCU and business partner
+- material master -> product
+- ASN -> (advanced shipping notification)
+- ppf -> post processing framework (used in EWM)
+- SCM -> supply chain management
+- CRM -> Customer Resource Management ?
+- tms -> taylored management service
+- bms -> basic measurement service
+- CMS -> calculated management service
+- VDM -> virtual data model
+- KPI -> key performance analytics
+- WT -> warehouse task
+- HU -> handling unit
+- LE -> logistics execution
 
 ---
 

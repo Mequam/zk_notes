@@ -14,6 +14,9 @@ this is the link to master data stored inside the warehouse
 these typically contain data that pertains to the storage and retrieval of 
 any given object
 
+in ERP these products corispond to material master records, and get translated over
+into product master records in EWM
+
 ## UI Tabs
 
 there are 3 main UI tabs that can be set for these
