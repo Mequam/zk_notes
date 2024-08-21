@@ -52,4 +52,56 @@ the movement of the goods
 if it is selected you can have the system reserve that bin to prevent
 other goods from filling up that space.
 
+## External Verses Internal Steps
+
+As a prerequisite, the complete storage process is defined in customizing.
+
+SAP delivers predefined internal steps. These are not changeable and they
+define the storage process type. Examples of internal steps are: loading,
+unloading, counting, packing, deconsolidation, putaway, and staging. The sequence of internal
+steps is predefined for each incoming or outgoing process or internal movement.
+
+You can define as many external steps as you want. External
+steps must be assigned to a corresponding internal step. The external
+step can optionally detail the destination storage bin.
+
+### List Of Internal Steps
+- loading
+- unloading
+- counting
+- packing
+- deconsolidation
+- putaway
+- staging
+
+
+---
+
+## storage process (order?) determination
+
+The storage process is determined depending on the direction of the
+warehouse request. For inbound movements, the storage process comes directly from
+the warehouse process type determined in the warehouse request. For outbound
+delivery orders, the storage process is part of the warehouse order
+creation rule (which is explained in a separate unit).
+
+You
+can enter process steps to a storage process only in a specific sequence.
+
+For the putaway process, this is as follows (the list shows the internal process steps):
+
+1. Unload
+2. Count
+3. Deconsolidation
+4. Quality inspection
+5. Value-added service (VAS)
+6. Putaway
+
+For the stock removal process, this is as follows:
+
+- Remove from stock
+- Value-added services (VAS)
+- Pack
+- Stage
+- Load
 

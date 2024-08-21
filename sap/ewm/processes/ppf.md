@@ -38,3 +38,12 @@ automatically in the background, if not you can create one manually
 
 see [sap/ewm/overview/warehouseTasks](../overview/warehouseTasks)
 see [sap/ewm/overview/warehouseTasks](../overview/warehouseTasks.md)
+
+## Connection to service definition
+
+Message/output control for delivery processing uses Post Processing Framework (PPF). The
+PPF is a Basis component that generates actions from the data
+of an application according to an action definition (for example, the
+printing of a delivery note). PPF provides the tools for scheduling,
+starting, and monitoring actions. Actions are saved in an action profile,
+which is linked to the document type.

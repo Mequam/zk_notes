@@ -23,6 +23,8 @@ just a place to dump acronyms that might be useful later
 - CIE : quality inspection engine
 - WAS : web application server see [sap/ewm/additionalFunctions/qualityInspection](additionalFunctions/qualityInspection)
 - APO : advanced planning optimization
+- ELS : engineered labor standards
+- ODO : Outbound Delivery Order
 
 ## EWM Master Data Acronyms
 
@@ -40,3 +42,35 @@ just a place to dump acronyms that might be useful later
 - LE -> logistics execution
 
 [sap/ewm/overview/masterData](overview/masterData)
+
+
+- INB  : Inbound Delivery
+- INBI : Inbound Delivery, production
+- OUTB : Outbound Delivery
+- SREA : Warehouse Reorganization
+- SRPL : Replenishment
+- SWHI : Stock Transfer
+- TWPR : Posting Change
+
+- IDR: inbound delivery notification
+- PDI: inbound delivery
+
+
+- odr: outbound delivery request
+- pdo: outbound delivery order
+- fdo: outbound delivery
+
+- por: posting change request
+- spc: posting change
+
+
+- wmr: stock transfer
+- LIME : Logistics Information Engine
+- WOCR : warehouse order creation rules
+
+
+[sap/ewm/documentCats](documentCats.md)
+[sap/ewm/integration/documentTypes](integration/documentTypes.md)
+
+[sap/ewm/documentCats](documentCats)
+[sap/ewm/integration/documentTypes](integration/documentTypes)

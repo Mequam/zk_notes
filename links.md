@@ -53,3 +53,8 @@ use it to gage your current knowledge
 [ewm cert landing page](https://training.sap.com/certification/c_s4ewm_2020-sap-certified-associate---extended-warehouse-management-with-sap-s4hana-g/?)
 [ewm practice page](https://saplearninghub.plateau.com/learning/user/deeplink.do?catalogAction=launchContent&componentID=EWM10e_EN_Col19&componentTypeID=E-Learning&fromSF=Y&linkId=ITEM_DETAILS&revisionDate=1357992000000#/51DC1530838531D4170097028B280BCD/onlinecontentplayer/23916869)
 [udemy ewm with explanations](https://www.udemy.com/course/sap-extended-warehouse-management-become-certified/?couponCode=KEEPLEARNING)
+
+[process orietned storage control practical tutorial](https://community.sap.com/t5/supply-chain-management-blogs-by-members/embedded-ewm-inbound-posc-multi-step-movements/ba-p/13424539)
+
+
+[learning stuffs](https://saplearninghub.plateau.com/learning/user/personal/landOnPortalHome.do?fromSF=Y&fromDeepLink=true&pageID=)

@@ -31,7 +31,20 @@ notice the focus on position, a process based look would follow more of bellow
 
 
 
+## Fields That Must Be Maintained In LOSC
 
+Maintain the following fields for layout-oriented storage control:
 
+    Maintain the source or destination storage type settings to control whether the storage control is applicable while receiving or issuing the goods, and whether the product movement is executed via an identification or pick point.
 
+    Select the Whole HU indicator if you want to differentiate between moving a complete handling unit, an empty handling unit, or a partial handling unit withdrawal.
 
+    Select HU type group to specify that a specific HU type, for example wire baskets or boxes, should always be moved via some specific intermediate storage type.
+
+    Select the Intermediate Storage Type to specify the stock movement via an intermediate location, for example an identification or pick point.
+
+    Optionally select an Intermediate Storage Section and/or an Intermediate Storage Bin to specify in more detail to where the product should be moved. If the intermediate storage section or bin is not defined, the defined putaway strategies are used to find the necessary data.
+
+    Define the Warehouse Process Type to create the warehouse task for the intermediate storage location, and to specify which activities should be performed during warehouse task processing.
+
+    If the intermediate storage type is an identification point, the system does not use the warehouse process type.

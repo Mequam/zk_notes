@@ -98,7 +98,7 @@ you can define addtional attributes for a storage bin including:
 - Fire containment section:
     Used in product hazardous material reporting.
 
-
+> storage bin types are limited to bieng 18 characters
 
 
 additonaly storage bins can recive a cordinent for access
