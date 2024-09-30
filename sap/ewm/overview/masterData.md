@@ -119,5 +119,15 @@ batches are additional master data for handling objects that have
 to be grouped together
 
 see [sap/ewm/additionalFunctions/batch](../additionalFunctions/batch)
+[sap/ewm/additionalFunctions/batch](../additionalFunctions/batch.md)
 
 for more detail
+
+---
+
+## Overview Graphic
+
+this is a helpful graphic yoinked from a udemy exam and containing inforamtion
+about the master data layout of SAP
+
+![master data](./assets/images/sapMasterDataOverview.png)

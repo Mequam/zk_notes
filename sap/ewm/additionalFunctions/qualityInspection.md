@@ -96,6 +96,12 @@ describes an inspection in further detail, for example:
 
 In embedded EWM, it is not necessary anymore to use inspection rules.
 
+Inspection rules contain paramaters that affect the way they are used
+
+- type of inspection
+- possible decision, follow up action
+- checking criteria
+
 ---
 
 ## Connection To ERP Systems
@@ -108,4 +114,19 @@ will then trigger a request response indicating how to followup on that
 information
 
 ![sapQIEERPconnection](./assets/sapQIEERPconnection.svg)
+
+---
+
+## Implicit Verses Explicit Counting
+
+SAP EWM provides two kinds of counting for use with quality inspection
+
+1. implicit
+2. explicit
+
+implicit is performed by the system when a warehouse task is processed
+
+where as explicit is performed by a work center to actually count the
+materials
+
 

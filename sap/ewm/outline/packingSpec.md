@@ -27,20 +27,20 @@ they can be used for specifically
 packing specifications have a set of fields that are used to 
 store data
 
-Header
+- Header
     The name of the packaging specification, the user who created it,
     and its status.
-Contents
+- Contents
     The name of the product to be packed or the number
     of another packaging specification.
-Level
+- Level
     The level associated with the packaging specification. (A packaging specification can
     have one or more levels).
-Element Group
+- Element Group
     The element group associated with the packaging specification. (A packaging specification
     can have one or more element groups. An element group can
     have one or more elements. Element groups can be re-used.)
-Element
+- Element
     A packaging material and/or a work step.
 
 

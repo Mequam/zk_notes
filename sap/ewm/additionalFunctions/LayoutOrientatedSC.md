@@ -48,3 +48,16 @@ Maintain the following fields for layout-oriented storage control:
     Define the Warehouse Process Type to create the warehouse task for the intermediate storage location, and to specify which activities should be performed during warehouse task processing.
 
     If the intermediate storage type is an identification point, the system does not use the warehouse process type.
+
+---
+
+## Things To Keep In Mind
+
+it looks like Layout oriented Storage Control is focused on movement INSIDE the warehouse,
+so when you see questions involving this, if they inicate loading or unloading, (or any other operations
+that presumably take place OUTSIDE the warehouse), don't pick those answers!
+
+it also looks like value added services are primaraly for
+
+[sap/ewm/additionalFunctions/processOrientedStorageControl](processOrientedStorageControl)
+[sap/ewm/additionalFunctions/processOrientedStorageControl](processOrientedStorageControl.md)

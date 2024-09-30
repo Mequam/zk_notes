@@ -58,3 +58,16 @@ use it to gage your current knowledge
 
 
 [learning stuffs](https://saplearninghub.plateau.com/learning/user/personal/landOnPortalHome.do?fromSF=Y&fromDeepLink=true&pageID=)
+
+---
+
+## Work Misc Links
+
+[jira](https://skillstorm-project3-team2.atlassian.net/jira/software/projects/APET/boards/1?selectedIssue=APET-106)
+
+[EWM bible](https://community.sap.com/t5/enterprise-architecture-discussions/sap-s4-hana-embedded-ewm-configuration-blog-step-by-step-guide-organization/m-p/13693108)
+
+[sap business partner sales guide](https://community.sap.com/t5/enterprise-resource-planning-q-a/ship-to-party-is-not-defined-for-sales-area/qaq-p/12264588)
+
+[obnoxious mard table page](https://www.se80.co.uk/sap-tables/?name=mard)
+

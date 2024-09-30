@@ -19,12 +19,13 @@ just a place to dump acronyms that might be useful later
     these are the primary way that applications send information
     to and from a EWM system and an ERP system
 - CIF : core data interface, see [sap/ewm/additionalFunctions/batch](additionalFunctions/batch)
-- ALE : idoc? more research needed here
+- ALE : Application Link Enabaling related to idoc
 - CIE : quality inspection engine
 - WAS : web application server see [sap/ewm/additionalFunctions/qualityInspection](additionalFunctions/qualityInspection)
 - APO : advanced planning optimization
 - ELS : engineered labor standards
 - ODO : Outbound Delivery Order
+- APO : advanced planning optimization
 
 ## EWM Master Data Acronyms
 
@@ -65,8 +66,12 @@ just a place to dump acronyms that might be useful later
 
 
 - wmr: stock transfer
+- wr: (internal stock transfer)
 - LIME : Logistics Information Engine
 - WOCR : warehouse order creation rules
+- AFS : Available For Sales
+- ROD : recive on doc
+- PbV : picky by voice
 
 
 [sap/ewm/documentCats](documentCats.md)

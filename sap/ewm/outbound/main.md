@@ -190,3 +190,40 @@ see
 
 [sap/ewm/outbound/stockRemovalStrategies](stockRemovalStrategies.md)
 [sap/ewm/outbound/stockRemovalStrategies](stockRemovalStrategies)
+
+---
+
+## Direct Outbound Delivery Order
+
+there are certain times when the standard outbound delivery processes
+need to be expidiated for whatever reason, 
+
+in such circomstances direcft outbound delivery orders can be used
+to bypass standard steps that exist in the system and get through the process
+faster.
+
+you can perform this action under the following circomstances
+
+- Pickup:
+
+    When goods are to be directly picked up by the customer
+    or a carrier without the usual sales order processing in ERP,
+    direct outbound delivery orders are beneficial.
+
+- Immediate deliveries:
+
+    For urgent shipments where goods need to be immediately dispatched without
+    waiting for the standard sales order process, direct outbound delivery orders
+    come in handy.
+
+- Kit to stock or reverse kitting:
+
+    When products are assembled or disassembled in the warehouse (kitting or
+    reverse kitting) and need to be sent out without going through
+    the usual sales process, direct outbound delivery orders are used.
+
+- Scrapping:
+
+    If goods are determined to be unsellable, defective, or obsolete and
+    need to be removed from inventory immediately, a direct outbound delivery
+    order can be created to manage the scrapping process.

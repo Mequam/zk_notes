@@ -95,21 +95,21 @@ it sorts the warehouse tasks according to the sort rule. Individual warehouse or
 In addition to sort rules and filter and limit values, warehouse
 order creation rules can also contain parameters for packing and consolidation groups.
 
-Consolidation groups: During warehouse order creation, consolidation groups determine warehouse tasks
-that are permitted to be bundled together.
+#### Consolidation groups:
+    During warehouse order creation, consolidation groups determine warehouse tasks
+    that are permitted to be bundled together.
 
-In order to be processed, every warehouse task has to be
-assigned to a warehouse order. If SAP EWM has applied all
-user-defined warehouse order creation rules for the search sequence, and 
-unassigned warehouse tasks still remain, the system uses a remainder rule.
+    In order to be processed, every warehouse task has to be
+    assigned to a warehouse order. If SAP EWM has applied all
+    user-defined warehouse order creation rules for the search sequence, and 
+    unassigned warehouse tasks still remain, the system uses a remainder rule.
 
-Remainder rules: Create warehouse orders for any remaining warehouse tasks. 
-SAP EWM summarizes these warehouse tasks per activity area, queue, and
-consolidation group.
+#### Remainder rules:
+    Create warehouse orders for any remaining warehouse tasks. 
+    SAP EWM summarizes these warehouse tasks per activity area, queue, and
+    consolidation group.
 
-Standard rules: Group tasks per activity area, queue and delivery. If
-the system cannot find a warehouse order creation rule for an
-activity area, SAP EWM applies this rule.
-
-
-
+#### Standard rules:
+    Group tasks per activity area, queue and delivery. If
+    the system cannot find a warehouse order creation rule for an
+    activity area, SAP EWM applies this rule.

@@ -133,4 +133,18 @@ bin under SrchRule EmptyBin.
 
 ### Bulk Storage
 
-from how SAP seems to be refering to it
+from how SAP seems to be refering to it this is about placing objects in storage that
+need to be used in bulk
+
+think placing lots of similar bottles in one area for handling
+
+this storage type uses HU
+
+### Pallet Storage
+
+different pallets get different storage locations in this type, 
+so naturally the handling unit is front and center as it appears
+that pallet corrisponds with handling unit
+
+
+this storage type uses HU

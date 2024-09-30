@@ -18,6 +18,30 @@ ways we could extend project systems
 5. list close milestones / dangerous milestones
 
 
+## tcode for existing customer in SAP system
 
-## Address To Mail Stuff Too
+1000530
+
+## Sales Area Test
+
+APET
+10
+AO
+
+## Possible Project Ideas:
+
+- list of high volatility goods
+    - how do we read goods from the system
+    - do we have any stock in the sytem
+        probably not
+    - can we see a history of inbound and outbound deliveries in SAP
+        not without goods in the system
+
+- list of high performance employees
+    - we don't have workers in the system
+
+- table of cleanup section to distribute work where necessary
+
+- employee food tracker
+
 

@@ -20,3 +20,10 @@ note that when you withdrawl you are often taking more than one product out so y
 the system, and then assign those m&m's to different packages.
 
 note that you create two warehouse tasks for this in the system.
+
+## Configuration
+
+two step picking is configured at the warehouse level
+
+this makes sense, since different warehouses might use
+different techniques when picking objects
