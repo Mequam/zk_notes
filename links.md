@@ -71,3 +71,7 @@ use it to gage your current knowledge
 
 [obnoxious mard table page](https://www.se80.co.uk/sap-tables/?name=mard)
 
+[abap cheat sheet](https://github.com/SAP-samples/abap-cheat-sheets/tree/main#readme)
+
+
+[facets learning journey](https://learning.sap.com/learning-journeys/develop-sapui5-applications/using-header-facets-for-object-pages_d1a91e6b-adb5-4021-91cb-24d5f5c4865f)

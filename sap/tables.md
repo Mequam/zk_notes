@@ -15,6 +15,10 @@ both of these tables contain change log information
 about documents in the sap system one is for line items the other for 
 headers, idk which tho so play with them for usage
 
+
+note that you can get further info from these tables from
+SE16N
+
 CDHDR 
 CDPOS
 ## List of tables
@@ -31,4 +35,10 @@ MATDOC : presumably replacement table for mard
     - lgort\_sid : activity area
     - menge: amount / quantity in stock
     - [obnoxious add riddled link](https://www.se80.co.uk/sap-s4-hana-tables/?name=matdoc)
+PA0002: cheif HR table of SAP, contains person info
+    - pernr : personel number, used for primary id
+    - mandt : client number per usual
+    - vorna : first name
+    - nachn : last name
+
 

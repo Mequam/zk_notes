@@ -11,7 +11,7 @@ created: 1719258667
 
 just a place to plop transactionCodes that I find useful for sap
 
-see se93 to search more about tcodes
+see se93 to search more about tcodes or make custom tcodes
 
 
 ## Transaction Codes
@@ -62,3 +62,4 @@ OVXG : connect sales organizations distribution channels and divisions
 VOV4 : create an item category in the system
 OX10 : see all plants stored in the system
 0184 : open the table for item type determination
+SM36 : mark an abap program to run as a background job
