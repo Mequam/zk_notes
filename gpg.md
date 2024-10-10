@@ -30,9 +30,6 @@ I THINK that the reason it does this is for security so you can't sign over ssh
 but I have yet to find a source to confirm, either way the following command
 will allow gpg to be used over the current tty
 
-I DIDN'T KEEP IT IN MY CLIPBOARD
-
-frik
-
-
-TODO: go find that command and save it
+```bash
+export GPG_TTY=$(tty)
+```
