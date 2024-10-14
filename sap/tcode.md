@@ -31,6 +31,7 @@ see se93 to search more about tcodes or make custom tcodes
 - LISTCUBE : query an info cube
 - MM01 : create a new material
 - MM02 : edit an existing material
+- SICF : search for system services
 
 ## Profit / Cost Center Accounting
 
