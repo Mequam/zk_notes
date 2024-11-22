@@ -64,3 +64,4 @@ VOV4 : create an item category in the system
 OX10 : see all plants stored in the system
 0184 : open the table for item type determination
 SM36 : mark an abap program to run as a background job
+SOST : look at emails that need to leave the system

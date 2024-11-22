@@ -40,5 +40,6 @@ PA0002: cheif HR table of SAP, contains person info
     - mandt : client number per usual
     - vorna : first name
     - nachn : last name
-
-
+ADR6: contains information about email addressesS
+    - SMTP\_ADDR : email address
+    - SMTP\_SRCH : email address for searching

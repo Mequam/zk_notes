@@ -75,3 +75,22 @@ use it to gage your current knowledge
 
 
 [facets learning journey](https://learning.sap.com/learning-journeys/develop-sapui5-applications/using-header-facets-for-object-pages_d1a91e6b-adb5-4021-91cb-24d5f5c4865f)
+
+
+[abap cheat sheet](https://github.com/SAP-samples/abap-cheat-sheets/tree/main#readme)
+[cds view syntax](https://github.com/SAP-samples/abap-cheat-sheets/blob/main/08_EML_ABAP_for_RAP.md)
+
+
+[abap email link](https://community.sap.com/t5/application-development-blog-posts/object-oriented-way-of-sending-an-email-from-abap-side/ba-p/13396221)
+
+---
+
+## ORM notes
+
+[next orm notes](https://orkhan.gitbook.io/typeorm/docs/decorator-reference)
+
+[docker hub](https://hub.docker.com/)
+[docker compose notes](https://docs.docker.com/get-started/workshop/08_using_compose/)
+
+[aws console](https://skillstorm.awsapps.com/start/#/?tab=accounts)
+
