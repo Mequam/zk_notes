@@ -94,3 +94,4 @@ use it to gage your current knowledge
 
 [aws console](https://skillstorm.awsapps.com/start/#/?tab=accounts)
 
+[cloud formation properties](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
