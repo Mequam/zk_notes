@@ -95,3 +95,10 @@ use it to gage your current knowledge
 [aws console](https://skillstorm.awsapps.com/start/#/?tab=accounts)
 
 [cloud formation properties](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
+
+
+[ip forward configuration](https://linuxconfig.org/how-to-turn-on-off-ip-forwarding-in-linux)
+[ip tables nat config](https://www.cherryservers.com/blog/how-to-manage-linux-system-routing-rules-with-iptables)
+
+
+[disable inputs](https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard)
