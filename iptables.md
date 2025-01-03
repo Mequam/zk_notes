@@ -9,12 +9,7 @@ created: 1735784130
 
 ## About
 
-used in order to configure firewalls on linux, see
-
-[linuxRouting](./linuxRouting.md)
-[linuxRouting](linuxRouting.md)
-
-for more information
+used in order to configure firewalls on linux
 
 ## targeting an ip address
 
@@ -22,3 +17,14 @@ you can target an ip address with the following information
 
 > iptables -A <table> -s <ip> -j <action>
 
+
+## using the state module
+
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+## using a linux pc as a router
+
+[linuxRouting](./linuxRouting.md)
+[linuxRouting](linuxRouting.md)
+
+for more information
