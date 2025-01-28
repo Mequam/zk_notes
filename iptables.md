@@ -20,7 +20,17 @@ you can target an ip address with the following information
 
 ## using the state module
 
+```bash
 iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+```
+
+## targeting a port
+
+you need to specify a protocol in order to target ports, an port target is bellow
+
+```bash
+iptables -A <TABLE> -p tcp --dport 22 -j ACCEPT
+```
 
 ## using a linux pc as a router
 

@@ -102,3 +102,12 @@ use it to gage your current knowledge
 
 
 [disable inputs](https://askubuntu.com/questions/160945/is-there-a-way-to-disable-a-laptops-internal-keyboard)
+
+[jenkins github action](https://www.jenkins.io/doc/tutorials/using-jenkinsfile-runner-github-action-to-build-jenkins-pipeline/)
+
+
+[ec2 docker setup](https://medium.com/appgambit/part-1-running-docker-on-aws-ec2-cbcf0ec7c3f8)
+
+[auto scaling group cloud formation example](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-autoscaling-autoscalinggroup.html)
+
+[aws aurora cloud formation starter blog](https://aws.amazon.com/blogs/database/best-practices-to-deploy-amazon-aurora-databases-with-aws-cloudformation/)
