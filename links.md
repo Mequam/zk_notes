@@ -111,3 +111,5 @@ use it to gage your current knowledge
 [auto scaling group cloud formation example](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-autoscaling-autoscalinggroup.html)
 
 [aws aurora cloud formation starter blog](https://aws.amazon.com/blogs/database/best-practices-to-deploy-amazon-aurora-databases-with-aws-cloudformation/)
+
+[vim zooming](https://stackoverflow.com/questions/13194428/is-better-way-to-zoom-windows-in-vim-than-zoomwin)

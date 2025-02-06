@@ -12,14 +12,58 @@ created: 1718382721
 ```bash
 #semetric encrypt
 gpg --symmetric --cipher-algo TWOFISH file.txt
-#semetric deycrypt
+#semetric or asymetric deycrypt
 gpg -d file.txt.gpg
+#list keys
+gpg --list-keys
 ```
-
 
 ## About
 
 gpg is an open source command line tool for doing encryption
+
+---
+
+## Public Private Key Management
+
+### Creation
+
+```bash
+#public private key generation
+gpg --expert --full-gen-key
+```
+
+### Exporting
+
+```bash
+gpg --armor --export <key id>
+```
+
+### Importing
+
+```bash
+gpg --import <contact-pubkey.gpg>
+```
+
+
+### Encrypting with Public Keys
+
+```bash
+gpg --recipient <key owner> --encrypt <file to encrypt>
+```
+
+---
+
+## Symetric Encrypt
+
+```bash
+gpg --symmetric --cipher-algo TWOFISH file.txt
+```
+
+obviously replace the algorithm with whichever one you
+prefer, this will prompt for a password
+
+---
 
 ## CLI differences
 

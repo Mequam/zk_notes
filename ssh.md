@@ -22,3 +22,20 @@ ssh-keygen -t ed25519 -C "name@email.com"
 ```
 
 you can replace ed25519 with your prefered key type supported by ssh
+
+## Passwordless Authentication
+
+ssh passwordless authentication uses cryptographic keys to
+authenticate with a system
+
+the simplest way is
+
+
+```bash
+ssh-copy-id remote-user@remote-host
+```
+
+will copy your current id to the remote host
+
+additionally you can specify which identity you want copied over
+with the -i flag

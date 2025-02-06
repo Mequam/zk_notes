@@ -17,6 +17,11 @@ created: 1738075683
 > 
 > -Oracle on java streams
 
+streams tend to be useful because they provide a set of very helpful
+mapping functions to iterate over, much like javascript arrays,
+and they further let you write your code in a way where it doesn't
+care where the data is coming from.
+
 ## Example
 
 ```java
@@ -49,3 +54,41 @@ public class JavaStreamExample {
     }  
 }  
 ```
+
+this example was taken from [javapoint](https://www.javatpoint.com/java-8-stream)
+
+
+## useful functions
+
+these are again taken from
+[javapoint](https://www.javatpoint.com/java-8-stream)
+
+### Intermidary (returns stream)
+
+- map(Function\<T, R\>)
+- filter(Predicate\<T\>)
+- flatMap(Function\<T, Stream\<R\>\>)
+- distinct()
+- sorted()
+- limit(long n)
+- skip(long n)
+- peek(Consumer\<T\>)
+
+### terminal (does not return stream)
+- forEach(Consumer\<T\>)
+- collect(Collector\<T, A, R\>)
+- reduce(BinaryOperator\<T\>)
+- count()
+- anyMatch(Predicate\<T\>)
+- allMatch(Predicate\<T\>)
+- noneMatch(Predicate\<T\>)
+- findFirst()
+- findAny()
+
+### Short Circit (returns boolean)
+
+- anyMatch(Predicate\<T\>)
+- allMatch(Predicate\<T\>)
+- noneMatch(Predicate\<T\>)
+- findFirst()
+- findAny()
